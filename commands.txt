@@ -1,0 +1,4 @@
+# création d'un environnement virtuel
+
+py -3 -m venv .venv
+.venv\scripts\activate
